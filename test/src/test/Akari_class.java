@@ -2,6 +2,7 @@ package test;
 
 public class Akari_class {
 // מיכÿכÿ 
+	// 2
 	public static void main(String[] args) {
 		int[][] myArray = new int[10][10];
 		 int[][] myArray1 = new int[10][10];
