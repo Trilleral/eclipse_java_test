@@ -33,6 +33,7 @@ class myPanel extends JPanel{
 				
 		gr.setColor(Color.BLUE);
 		gr.drawRect(x, y, x1,y1  );
+		if (myArr[j][i]>0) {gr.drawString("1", x+18, y+25);}
 			}
 		}
 	}
