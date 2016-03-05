@@ -5,7 +5,7 @@ import java.awt.*;
 import java.awt.event.*;
 public class okno {
  public static void main(String[] args){
-	// 05,03,2016 
+	// 05,03,2016  +1
 	 myFrame okno = new myFrame();
 	}		 
  }
