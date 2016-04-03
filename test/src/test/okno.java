@@ -17,7 +17,7 @@ class myFrame extends JFrame{
 		setBounds(10,10,800,600);
 		setVisible(true);
 		
-	}
+	} 
 }
 class myPanel extends JPanel{
 	public void paintComponent(Graphics gr){
