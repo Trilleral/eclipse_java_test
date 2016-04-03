@@ -30,7 +30,7 @@ class DogTestDrive{
 		}
 		
 		System.out.println();
-		myDog [1][3].color = 3;
+		//myDog [1][3].color = 3;
 		myDog [1][1].color = 3;
 		myDog [2][2].color = 3;
 /*		myDog [1][0].color = 3;
