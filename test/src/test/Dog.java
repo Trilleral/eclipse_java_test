@@ -57,7 +57,8 @@ class DogTestDrive{
 	        if (rows == 1)
 	            return 1;
 	        else 
-	        	return rows * countN(rows - 1);
+	        	return rows * countN(rows - 1); 
+	        
 	    }
 	
 	
